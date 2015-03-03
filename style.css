@@ -4,3 +4,26 @@
    margin-right: auto;
    width:40%;
    }
+   
+   .box{
+   margin-left:auto;
+   margin-right: auto;
+   width:40%;
+   position: relative;
+   }
+   
+   .buttons{
+   margin-left:auto;
+   margin-right:auto;
+   width: 40%;
+   }
+   
+   .space{
+   height: 15px;
+   }
+   
+   .footer{
+   width: 100%;
+   height: 25px;
+   background-color: #cccccc;
+   }
